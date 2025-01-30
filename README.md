@@ -85,7 +85,6 @@ I am an Information Systems student, passionate about Artificial Intelligence, d
         <polygon fill="#d21c22" points="28.352,29.57 28.352,36.82 24.045,43 24.045,35.975"></polygon>
         <polygon fill="#ff482c" points="31.256,21.593 36.191,27.586 43,29.57 38.418,23.788"></polygon>
         <path fill="#b6171e" d="M12.387,31.912l7.249-2.342l-7.862-2.359L5,29.57L12.387,31.912z"></path>
-        <path fill="#fd745c" d="M24.045,23.788l-4.409,5.782l-7.861-2.359l5.15-5.618L24.045,23.788z"></path>
-        title="Wolfram Alpha" 
+        <path fill="#fd745c" d="M24.045,23.788l-4.409,5.782l-7.861-2.359l5.15-5.618L24.045,23.788z"></path> 
     </svg>
 </div>
