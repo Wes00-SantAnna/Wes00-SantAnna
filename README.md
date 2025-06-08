@@ -37,13 +37,6 @@ I am an Information Systems student, passionate about Artificial Intelligence, d
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
     <img 
-        alt="PHP" 
-        title="PHP"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-    />
-    <img 
         alt="Python" 
         title="Python"
         width="30px" 
