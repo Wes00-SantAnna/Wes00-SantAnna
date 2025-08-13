@@ -75,6 +75,20 @@ I am an Information Systems student, passionate about Artificial Intelligence, d
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
     />
+    <img 
+        alt="Mongo" 
+        title="Mongo" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  
+    />
+    <img 
+        alt="React" 
+        title="React" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  
+    />
    
     
 </div>
