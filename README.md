@@ -5,7 +5,7 @@ I am an Information Systems student, passionate about Artificial Intelligence, d
 
 ---
 
-### 🌐 Languages and Technologies
+### Languages ⚙️
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <img 
@@ -44,31 +44,37 @@ I am an Information Systems student, passionate about Artificial Intelligence, d
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />      
     <img 
-        alt="scikitlearn" 
-        title="Scikit Learn" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
-    />
-    <img 
         alt="PROLOG" 
         title="PROLOG" 
         width="30px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" 
     />
-   <img 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    <img 
+        alt="C++" 
+        title="C++" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+    />
+</div>
+
+###  Technologies 🖥️
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+    <img 
+        alt="Git" 
+        title="Git" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
     <img 
-    alt="C++" 
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+        alt="Docker" 
+        title="Docker" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
     />
+   
+    
 </div>
